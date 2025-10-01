@@ -1,0 +1,126 @@
+<mjml>
+  <mj-head>
+     <mj-style>
+        a { 
+            color: inherit; 
+            padding: 5px
+        }
+        .my-line {
+            border: none; /* Remove default border */
+            border-top: 2px solid #ccc; /* Add a top border for the line */
+            margin: 20px 0; /* Add some vertical spacing */
+             width: 100%; /* Set a custom width */
+            background-color: transparent; /* Ensure no background color interferes */
+        }
+     </mj-style>
+    <mj-title>You earned $0.10 through Upside!</mj-title>
+    <mj-preview>You earned $0.10 through Upside!</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+    </mj-attributes>
+    <mj-style> * { box-sizing: border-box; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f6f5f2">
+    <mj-raw>
+      <!--Top Section-->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image href="https://upside.app.link/3p?$3p=e_iterable&$original_url=https%3A%2F%2Fwww%2Egetupside%2Ecom%2Fmobile%2Fapp" src="assets/upside-logo.png" alt="Upside Logo" align="center" width="110px" padding="30px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#2a8460">
+      <mj-column padding="15px">
+        <mj-text font-size="32px" color="#ffffff" font-weight="bold" align="center"> Cash back earned! </mj-text>
+        <mj-text font-size="70px" color="#ffffff" align="center" padding="10px 0 0 0"> $0.10</mj-text>
+        <mj-text font-size="15px" line-height="2" color="#ffffff" align="center" padding="45px 25px 0px 25px">
+            Some items purchased aren't eligible for cash back
+        </mj-text>
+        <mj-text font-size="15px" line-height="2" color="#ffffff" align="center" padding="0px 25px 25px 25px">
+            Due to store policies, we can't apply cash back offers to the purchase of alcohol, tobacco, lottery tickets, or gift cards. Your cash back earnings exclude those items.
+        </mj-text>
+        <mj-button href="https://upside.app.link/3p?$3p=e_iterable&$original_url=https%3A%2F%2Fwww%2Egetupside%2Ecom%2Fmobile%2Fapp%2F" target="_blank" background-color="#67f3b9" color="black" font-size="15px" font-weight="normal" padding="20px 25px 25px" border-radius="40px" align="center"> Keep earning </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Middle Section-->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text font-size="30px" color="black" font-weight="bold" align="center" padding="50px 30px 10px">
+        Transaction details
+        </mj-text>
+        <mj-image padding="20px 30px 0px" src="assets\reciept-upper.png" alt="zigzag" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 30px 0px 30px">
+      <mj-column background-color="#f6f5f2" padding="0px 0px 70px">
+        <mj-text color="black" font-weight="normal" font-size="15px" padding="0 20px 30px">Location</mj-text>
+      </mj-column>
+      <mj-column background-color="#f6f5f2" padding="0px 0px 0px">
+        <mj-text color="black" font-weight="normal" font-size="15px" align="right" padding="0 20px 0px">Valero + Circle K</mj-text>
+        <mj-text color="black" font-weight="normal" font-size="15px" align="right" padding="20px 20px 20px"> 123 Main St</mj-text>
+        <mj-text color="black" font-weight="normal" font-size="15px" align="right" padding="0 20px 30px"> Houston, TX</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 30px 0px 30px">
+      <mj-column background-color="#f6f5f2" padding="0px 0px 0px">
+        <mj-divider border-width="1px" border-color="#c9c9c9" padding="0px 20px 20px 20px"/>
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#ffffff" padding="0 30px 0px 30px">
+      <mj-column background-color="#f6f5f2" padding="0px 0px 70px">
+        <mj-text color="black" font-weight="normal" font-size="15px" padding="10px 20px 30px">Date</mj-text>
+      </mj-column>
+      <mj-column background-color="#f6f5f2" padding="0px 0px 45px">
+        <mj-text color="black" font-weight="normal" font-size="15px" align="right" padding="10px 20px 0px">Sep 20, 2025</mj-text>
+        <mj-text color="black" font-weight="normal" font-size="15px" align="right" padding="20px 20px 20px"> 04:46 PM</mj-text>
+        </mj-column>
+    </mj-section>
+        <mj-section background-color="#ffffff" padding="0 30px 0px 30px">
+      <mj-column background-color="#f6f5f2" padding="0px 0px 0px">
+        <mj-divider border-width="1px" border-color="#c9c9c9" padding="0px 20px 20px 20px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 30px 0px 30px">
+      <mj-column background-color="#f6f5f2" padding="0px 0px 20px">
+        <mj-text color="black" font-weight="normal" font-size="15px" padding="5px 20px 25px">Total purchase</mj-text>
+        <mj-text color="black" font-weight="normal" font-size="15px" padding="0 20px 30px">Offer amount</mj-text>
+        <mj-text color="black" font-weight="normal" font-size="15px" padding="0 20px 15px">Cash back</mj-text>
+      </mj-column>
+      <mj-column background-color="#f6f5f2" padding="0px 0px 0px">
+        <mj-text color="black" font-weight="normal" font-size="15px" align="right" padding="5px 20px 20px">$1.98</mj-text>
+        <mj-text color="black" font-weight="normal" font-size="15px" align="right" padding="5px 20px 20px"> $0.10</mj-text>
+        <mj-text color="black" font-weight="normal" font-size="15px" align="right" padding="5px 20px 40px"> $0.10</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="0px 30px 50px" src="assets\reciept-bottom.png" alt="zigzag" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Bottom Section-->
+    </mj-raw>
+    <mj-section background-color="#1e4b42">
+      <mj-column padding="15px">
+        <mj-text font-size="32px" color="#67f3b9" padding="25px 25px 40px" font-weight="bold" align="left"> Get an extra 15¢/gal </mj-text>
+        <mj-text font-size="15px" line-height="2" color="#ffffff" align="left" padding="0px 25px 20px 25px">
+            Give a friend an extra 15¢/gal cash back and get an extra 15¢/gal cash back on your next offer when they redeem it.
+        </mj-text>
+        <mj-button href="https://upside.app.link/3p?$3p=e_iterable&$original_url=https%3A%2F%2Fwww%2Egetupside%2Ecom%2Fmobile%2Fapp%2F" target="_blank" background-color="#1e4b42" color="white" font-size="15px" font-weight="normal" padding="20px 25px 25px" border-radius="40px" border="2px solid #ffffff" align="left"> Share Upside </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column padding="15px">
+      <mj-image src="assets/blue-sun.png" alt="Upside Logo" align="center" width="45px" padding="30px 0 20px 0" />
+        <mj-text font-size="32px" color="black" padding="0 0 20px" font-weight="bold" align="center"> You made an impact </mj-text>
+        <mj-text font-size="15px" color="black" line-height="1.8" align="center" padding="0px 25px 0" font-family="Arial, sans-serif" > Every time you earn cash back with Upside, we invest in sustainability initiatives like reducing carbon emissions and food waste.</mj-text>
+        <mj-button href="https://www.upside.com/about" target="_blank" background-color="#ffffff" color="black" font-size="15px" font-weight="normal" padding="35px 25px 35px" border="1px solid #000000" border-radius="40px" align="center"> Learn more </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>
